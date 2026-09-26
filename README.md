@@ -1,1 +1,2 @@
 # Analisa-Performa-Penjualan-Restoran-dengan-Konsep-Data-Engineering
+A data engineering project designed to ingest, clean, transform, and analyze restaurant sales data using an end-to-end Extract, Transform, Load (ETL) pipeline. The project demonstrates how tools like Pentaho Data Integration, MySQL, Apache Airflow, and Power BI can be used to handle data quality issues, structure a star schema data warehouse, automate workflow orchestration, and deliver interactive business intelligence dashboards.
